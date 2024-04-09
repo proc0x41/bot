@@ -1,0 +1,18 @@
+{
+    "vendas": true,
+    "acesstoken": "",
+    "pix": true,
+    "qrcode": true,
+    "pagarsite": true,
+    "semi": true,
+    "semiauto": {
+        "pix": "beltzinho123@gmail.com",
+        "qrcode": "remover",
+        "role": "1200015775323398205",
+        "tipo": "Email"
+    },
+    "termos": "Seu pix caiu meu server sumiu",
+    "channel_logs": "1226270635043455076",
+    "role": "1200015786773852172",
+    "category": "1226270581759152179"
+}

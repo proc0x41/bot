@@ -1,0 +1,14 @@
+{
+    "Puxadas": {
+        "title": "Painel Puxadas Completo",
+        "desc": "O painel de consultas provê os seguintes módulos:\n- Consulta Tracker (liga informações do alvo)\n- CPF\n- Nome\n- Placa do Carro\n- Parentes\n- Multas\n- E-mail\nE muito mais!!!",
+        "produtos": [
+            "PainelMensal",
+            "PuxadaUnica",
+            "PainelQuinzena",
+            "PainelDiario"
+        ],
+        "banner": "https://media.discordapp.net/attachments/1200015836358922240/1226663144810614845/Post_para_Instagram_Tabela_de_Precos_Para_Barbearias_e_BarberShops_Com_Valores_Preto_e_Branco.png?ex=66259614&is=66132114&hm=3ce9f0bfe25928b35c06280ff92a1e461ac8afeaefe9d7f35e6a10a0238ce8ef&=&format=webp&quality=lossless&width=520&height=385",
+        "placeholder": "Escolha um Produto"
+    }
+}
